@@ -20,6 +20,6 @@ There are 3 easy steps.
 {%youtube QWq0bSvc31A%}
 ```
 
-# Kudos
+## Kudos
 
 Thanks go to Anders M. Andersen for his [blogpost about responsive embeds](http://amobil.se/2011/11/responsive-embeds/) and to Portway Point for their [Jekyll Youtube Liquid Template Tag Gist](http://www.portwaypoint.co.uk/jekyll-youtube-liquid-template-tag-gist/)
