@@ -13,11 +13,11 @@ There are 3 easy steps.
 ```markdown
 # Vimeo example
 
-{%vimeo 20241459%}
+{% vimeo 20241459 %}
 
 # Youtube example
 
-{%youtube QWq0bSvc31A%}
+{% youtube QWq0bSvc31A %}
 ```
 
 ## Kudos
