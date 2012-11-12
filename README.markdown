@@ -7,7 +7,7 @@ Helps you embed Youtube and Vimeo videos responsively to your Octopress since 20
 There are 3 easy steps.
 
 1. Add ```youtube.rb``` and ```vimeo.rb``` to your ```plugin``` folder.
-2. Copy the content from ```rve-styles.css``` to your own stylesheet or just add it to your template.
+2. Copy the content from ```rve-styles.css``` to your own stylesheet or just add it to your template. (or to keep everything in sass, see below)
 3. Now you can easily embed videos using only the ```id``` like this:
 
 ```markdown
@@ -19,6 +19,11 @@ There are 3 easy steps.
 
 {% youtube QWq0bSvc31A %}
 ```
+
+## Optional - keep everything in sass
+
+1. Copy ```_rve.scss``` to ```/sass/custom```
+2. Add ```@import "custom/rve"``` to  ```/sass/screen.scss```
 
 ## Kudos
 
