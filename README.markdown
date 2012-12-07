@@ -1,12 +1,12 @@
 # Octopress responsive video embed
 
-Helps you embed Youtube and Vimeo videos responsively to your Octopress since 2012.
+Helps you embed Youtube and Vimeo videos responsively to your Octopress since 2012. Also supports embeds from TrailerAddict.
 
 ## How to use it?
 
 There are 3 easy steps.
 
-1. Add ```youtube.rb``` and ```vimeo.rb``` to your ```plugin``` folder.
+1. Add ```youtube.rb```, ```vimeo.rb```, ```traileraddict.rb``` to your ```plugin``` folder.
 2. Copy the content from ```rve-styles.css``` to your own stylesheet or just add it to your template. (or to keep everything in sass, see below)
 3. Now you can easily embed videos using only the ```id``` like this:
 
@@ -18,6 +18,11 @@ There are 3 easy steps.
 # Youtube example
 
 {% youtube QWq0bSvc31A %}
+
+# TrailerAddict example
+
+{% traileraddict 66840 %}
+
 ```
 
 ## Optional - keep everything in sass
