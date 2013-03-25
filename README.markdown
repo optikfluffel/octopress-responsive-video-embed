@@ -23,7 +23,7 @@ There are 3 easy steps.
 
 {% traileraddict 66840 %}
 
-# Ooyala example (needs two id's, ```pbid``` and ```ec```(
+# Ooyala example (needs two id's, pbid and ec)
 
 {% ooyala 2ff6d6fff2b2457bb9ea2cfcf77dc25b 1xaW1nYTqi1Z1ZiLwcJ2qSSrg94NAtkQ %}
 
