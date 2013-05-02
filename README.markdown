@@ -41,7 +41,7 @@ There are 3 easy steps.
 ## Kudos
 
 * Thanks go to Anders M. Andersen for his [blogpost about responsive embeds](http://amobil.se/2011/11/responsive-embeds/) and to Portway Point for their [Jekyll Youtube Liquid Template Tag Gist](http://www.portwaypoint.co.uk/jekyll-youtube-liquid-template-tag-gist/)
-* Special Thanks go to [@geetotes](https://github.com/geetotes) (for the Trailer Addict support) and to [@DennisLaumen](https://github.com/DennisLaumen) (for the Ooyala support).
+* Special thanks go to [@geetotes](https://github.com/geetotes) (for the Trailer Addict support), to [@DennisLaumen](https://github.com/DennisLaumen) (for the Ooyala support) and to [@jcbedier](https://github.com/jcbedier) (for the Dailymotion support).
 
 ## Edorsement
 
