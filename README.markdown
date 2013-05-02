@@ -27,6 +27,10 @@ There are 3 easy steps.
 
 {% ooyala 2ff6d6fff2b2457bb9ea2cfcf77dc25b 1xaW1nYTqi1Z1ZiLwcJ2qSSrg94NAtkQ %}
 
+# Dailymotion example
+
+{% dailymotion xme2zs %}
+
 ```
 
 ## Optional - keep everything in sass
