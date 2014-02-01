@@ -7,7 +7,7 @@ Helps you embed Youtube and Vimeo videos responsively to your Octopress since 20
 There are 3 easy steps.
 
 1. Add ```youtube.rb```, ```dailymotion.rb```, ```vimeo.rb```, ```traileraddict.rb```, ```ooyala.rb``` to your ```plugin``` folder.
-2. Copy the content from ```rve-styles.css``` to your own stylesheet or just add it to your template. (or to keep everything in sass, see below)
+2. Copy the content from ```rve-styles.css``` to your own stylesheet or just add it to your template. (Or, to keep everything in sass, see below)
 3. Now you can easily embed videos using only the ```id``` like this:
 
 ```markdown
@@ -43,6 +43,6 @@ There are 3 easy steps.
 * Thanks go to Anders M. Andersen for his [blogpost about responsive embeds](http://amobil.se/2011/11/responsive-embeds/) and to Portway Point for their [Jekyll Youtube Liquid Template Tag Gist](http://www.portwaypoint.co.uk/jekyll-youtube-liquid-template-tag-gist/)
 * Special thanks go to [@geetotes](https://github.com/geetotes) (for the Trailer Addict support), to [@DennisLaumen](https://github.com/DennisLaumen) (for the Ooyala support) and to [@jcbedier](https://github.com/jcbedier) (for the Dailymotion support).
 
-## Edorsement
+## Endorsement
 
-If you like it feel free to endorse me: [![](http://api.coderwall.com/optikfluffel/endorsecount.png)](http://coderwall.com/optikfluffel)
+If you like it, feel free to endorse me: [![](http://api.coderwall.com/optikfluffel/endorsecount.png)](http://coderwall.com/optikfluffel)
