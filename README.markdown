@@ -1,6 +1,6 @@
 # Octopress responsive video embed
 
-Helps you embed Youtube and Vimeo videos responsively to your Octopress since 2012. Also supports embeds from TrailerAddict and Ooyala (video player used by The Verge and Polygon).
+Helps you embed Youtube and Vimeo videos responsively to your Octopress since 2012. Also supports embeds from TrailerAddict, Ooyala (video player used by The Verge and Polygon) and Dailymotion.
 
 ## How to use it?
 
@@ -14,23 +14,30 @@ There are 3 easy steps.
 # Vimeo example
 
 {% vimeo 20241459 %}
+```
 
+```ruby
 # Youtube example
 
 {% youtube QWq0bSvc31A %}
+```
 
+```ruby
 # TrailerAddict example
 
 {% traileraddict 66840 %}
+```
 
+```ruby
 # Ooyala example (needs two id's, pbid and ec)
 
 {% ooyala 2ff6d6fff2b2457bb9ea2cfcf77dc25b 1xaW1nYTqi1Z1ZiLwcJ2qSSrg94NAtkQ %}
+```
 
+```ruby
 # Dailymotion example
 
 {% dailymotion xme2zs %}
-
 ```
 
 ## Optional - keep everything in sass
