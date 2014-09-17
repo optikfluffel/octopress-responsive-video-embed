@@ -7,7 +7,7 @@ module Jekyll
     end
 
     def render(context)
-      %(<div class="embed-video-container"><iframe src="http://www.traileraddict.com/emd/#{@id}"></iframe></div>)
+      %(<div class="embed-video-container"><iframe src="//www.traileraddict.com/emd/#{@id}"></iframe></div>)
     end
   end
 end
