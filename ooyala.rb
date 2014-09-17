@@ -9,7 +9,7 @@ module Jekyll
     end
 
     def render(context)
-      %(<div class="embed-video-container"><script src="http://player.ooyala.com/iframe.js#pbid=#{@pbid}&ec=#{@ec}"></script></div>)
+      %(<div class="embed-video-container"><script src="//player.ooyala.com/iframe.js#pbid=#{@pbid}&ec=#{@ec}"></script></div>)
     end
   end
 end
