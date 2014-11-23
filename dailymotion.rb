@@ -5,7 +5,7 @@ module Jekyll
       @id = id
     end
     def render(context)
-	%(<div class="embed-video-container"><iframe src="//www.dailymotion.com/embed/video/#{@id}"></iframe></div>)
+	%(<div class="embed-video-container"><iframe src="//www.dailymotion.com/embed/video/#{@id.strip}"></iframe></div>)
     end
   end
 end
